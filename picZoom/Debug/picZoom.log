@@ -1,4 +1,4 @@
-﻿生成启动时间为 2018/6/25 16:15:27。
+﻿生成启动时间为 2018/6/26 2:26:15。
      1>项目“F:\GitHub\OpenCV2.14\picZoom\picZoom\picZoom.vcxproj”在节点 2 上(Build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\picZoom.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
@@ -15,4 +15,4 @@
 
 已成功生成。
 
-已用时间 00:00:01.88
+已用时间 00:00:01.64
